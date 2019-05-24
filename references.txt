@@ -1,0 +1,7 @@
+## File watch changes
+
+https://thisdavej.com/how-to-watch-for-files-changes-in-node-js/
+
+## Read CSV
+
+https://dev.to/maheshkay/read-csv-file-using-node-js-29oc
